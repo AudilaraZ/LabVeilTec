@@ -19,8 +19,8 @@ Souvent l'UX est confondu avec L'UI design. Bien que complémentaire l'un de l'a
 
 **Pour quelles raisons utiliser l'UX ?**
 
-Nous avons toutes et tous eu de mauvaises expériences sur un site. Par exemple: des pages qui painent à charger à cause des images, rechercher pendant des minutes des pages ou une information, un menu peu clair, des boutons qui ne ressemble pas à des boutons. Et quand c'est trop, nous quittons le site, car nous sommes lassés de chercher.
-Pour tous cela, nous aimerions pas faire de même pour notre propre site web, e-commerce ou application. Vous l'aureez compris, un site peu ergonomique, c'esdt une perte de trafic. Ainsi, voilà pourquoi il est important de s'intéresser à l'utilisation, au parcours type que peut faire un utilisateur et ce qu'il attend du site ou de l'application. Après cette réflexion, les fonctionnalités porposées ne seront que meilleures.
+Nous avons toutes et tous eu de mauvaises expériences sur un site. Par exemple: des pages qui painent à charger à cause des images, rechercher pendant des minutes des pages ou une information, un menu peu clair, des boutons qui ne ressemblent pas à des boutons. Et quand c'est trop, nous quittons le site, car nous sommes lassés de chercher.
+Pour tous cela, nous n'aimerions pas faire de même sur notre propre site web, e-commerce ou application. Vous l'aureez compris, un site peu ergonomique, c'est une perte de trafic. Ainsi, voilà pourquoi il est important de s'intéresser à l'utilisation, au parcours type que peut faire un utilisateur et ce qu'il attend du site ou de l'application. Après cette réflexion, les fonctionnalités porposées ne seront que meilleures.
 
 
 **Comment réaliser une bonne expérience utilisateur ?**
